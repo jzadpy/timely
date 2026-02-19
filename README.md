@@ -12,7 +12,7 @@
 - **🔔 Notificaciones Inteligentes**: Recibe avisos en tu escritorio cuando comienza una nueva clase.
 - **⌨️ Atajos de Teclado**: Maneja toda la aplicación sin tocar el ratón (presiona `?` para ver los atajos).
 - **📂 Importación CSV**: Configura tu horario fácilmente importando un archivo `.csv` estándar.
-- **🐍 Huevo de Pascua**: Prueba el Código Konami (`↑↑↓↓←→←→ba`) para activar herramientas de depuración.
+- **🐍 Easter Egg**: Prueba el Código Konami (`↑↑↓↓←→←→ba`) para activar herramientas de depuración.
 
 ## 🚀 Instalación y Desarrollo
 
