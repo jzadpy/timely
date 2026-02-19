@@ -63,3 +63,4 @@ Hora,Lunes,Martes,Miércoles,Jueves,Viernes
 Este proyecto está bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
+*Hecho con ❤️ para mejorar la productividad estudiantil.*
