@@ -1,3 +1,5 @@
+# This repo will be not maintained anymore by jzadl / Este repo ya no sera mantenido por jzadl 
+
 # 🕒 Timely
 
 **Timely** es una aplicación de escritorio minimalista y elegante diseñada para ayudar a los estudiantes a gestionar su horario de clases con precisión y estilo. Construida con **Electron**, **React** y **Vite**, ofrece una experiencia fluida con una estética visual impresionante.
